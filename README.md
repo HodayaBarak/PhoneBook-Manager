@@ -6,7 +6,7 @@ The Phone Book Manager is a simple C program that allows users to manage a phone
 It supports adding, deleting, searching, and updating contacts, and displays the phone book in alphabetical order based on the first letter of the last name.
 
 ## Screenshots
-[Add contat](screenshots/1.png)
+[Add contat](./PhoneBook-Manager/screenshots/1.png)
 
 [Delete contact](screenshots/2.png)
 
