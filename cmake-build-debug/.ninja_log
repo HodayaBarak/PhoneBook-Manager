@@ -1,0 +1,10 @@
+# ninja log v5
+3	326	7514848152349434	build.ninja	c9e066bd4f3e32c1
+0	106	7514848155705120	CMakeFiles/phonebook.dir/phonebook.c.obj	5aab427d28bb8cdd
+107	234	7514848156951592	phonebook.exe	6520a0bd2f1415a3
+1	120	7514851369479438	CMakeFiles/phonebook.dir/phonebook.c.obj	5aab427d28bb8cdd
+120	238	7514851370627854	phonebook.exe	6520a0bd2f1415a3
+2	111	7514852401417081	CMakeFiles/phonebook.dir/phonebook.c.obj	5aab427d28bb8cdd
+112	237	7514852402638280	phonebook.exe	6520a0bd2f1415a3
+1	125	7514852548940961	CMakeFiles/phonebook.dir/phonebook.c.obj	5aab427d28bb8cdd
+125	261	7514852550253178	phonebook.exe	6520a0bd2f1415a3
